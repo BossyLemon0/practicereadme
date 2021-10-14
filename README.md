@@ -34,7 +34,8 @@ New Project
 ## Tests
 
 No tests
-'''hello
+'''
+hello
 '''
 
 ## Licence
