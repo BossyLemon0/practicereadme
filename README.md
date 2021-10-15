@@ -35,9 +35,6 @@ New Project
 
 No tests
 
-Markup : ```javascript
-         ```
-
 
 
 ## Licence
